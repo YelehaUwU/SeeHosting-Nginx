@@ -11,9 +11,9 @@
     "features": null,
     "docker_images": {
     "PHP 8.5": "ghcr.io\/yelehauwu\/seehosting-nginx:8.5-latest",
-    "PHP 8.4": "ghcr.io\/YelehaUwU\/SeeHosting-Nginx:8.4-latest",
-    "PHP 8.3": "ghcr.io\/YelehaUwU\/SeeHosting-Nginx:8.3-latest",
-    "PHP 8.2": "ghcr.io\/YelehaUwU\/SeeHosting-Nginx:8.2-latest"
+    "PHP 8.4": "ghcr.io\/yelehauwu\/seehosting-nginx:8.4-latest",
+    "PHP 8.3": "ghcr.io\/yelehauwu\/seehosting-nginx:8.3-latest",
+    "PHP 8.2": "ghcr.io\/yelehauwu\/seehosting-nginx:8.2-latest"
     },
     "file_denylist": [],
     "startup": ".\/start-modules.sh",
