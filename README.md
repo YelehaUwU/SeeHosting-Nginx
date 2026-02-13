@@ -31,11 +31,12 @@ A versatile Pterodactyl Egg featuring Nginx, PHP 8.x, WordPress, Git, Composer, 
 - 🌐 Cloudflare Tunnel: Secure tunnel with token validation  
 - 🚀 PHP-NGINX Startup: Auto-detects PHP-FPM version, runs NGINX in foreground  
 - 🖥️ Multi-arch support: AMD64 & ARM64  
-- 🎯 **Selectable PHP Versions:**  
+- 🎯 **Selectable PHP Versions:**
+  - ✅ 8.5
   - ✅ 8.4  
-  - ✅ 8.3  
+  - ☑️ 8.3 (security-only)  
   - ☑️ 8.2 (security-only)  
-  - ☑️ 8.1 (security-only)  
+  - ❌ 8.1 (EOL)  
 
 [PHP Supported Versions](https://www.php.net/supported-versions.php)
 
